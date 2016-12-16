@@ -1,0 +1,7 @@
+airmon usr/share/fluxion/
+fluxion usr/share/fluxion/
+fluxion-launcher usr/bin/fluxion
+LICENSE usr/share/fluxion/
+README.md usr/share/fluxion/
+parrot-fluxion.desktop usr/share/applications/
+parrot-fluxion.desktop usr/share/parrot-menu/applications/
